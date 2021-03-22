@@ -2,8 +2,11 @@
 Generate a QR for any uri
 
 # requirement 
-
+pyqrcode<br/>
+pypng
 # command to run the code
-python 
+1- set the input parameters of the file run_generate_qr_code.py<br/>
+2- Run the following command: python run_generate_qr_code.py<br/>
+3- Get the results on the folder named "results/" (qr code saved on png and svg format)
 
 

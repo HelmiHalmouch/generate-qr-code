@@ -1,6 +1,5 @@
-# generate-qr-code
+# generate_qr_code
 Generate a QR for any uri
-
 # requirement 
 pyqrcode<br/>
 pypng<br/>
